@@ -1,0 +1,9 @@
+{
+	"name": "demotanuja",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7cd117e7-4ec2-453c-9b9f-8244aa4358ca",
+		"tenantId": "93f33571-550f-43cf-b09f-cd331338d086"
+	}
+}
